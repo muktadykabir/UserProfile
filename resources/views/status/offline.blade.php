@@ -1,0 +1,1 @@
+<h1>Status set to Offline. Now you can go back to previous page</h1>
